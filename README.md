@@ -158,7 +158,7 @@ Say commands like:
 
 "exit" → exit program
 
-8. Next Steps / Extensions
+### 8. Next Steps / Extensions
 
 Add financial database:
 
@@ -176,7 +176,7 @@ Add text/voice summaries of progress
 
 Add encryption for sensitive data
 
-9. Security Considerations
+### 9. Security Considerations
 
 Encrypt databases storing financial info
 
@@ -184,7 +184,7 @@ Limit server access (localhost or VPN)
 
 Use virtual environment to isolate Python packages
 
-10. References
+### 10. References
 
 Vosk Speech Recognition
 
